@@ -1,23 +1,22 @@
-# About Cisco's presence at CodeMotion 2016 (Nov 25-26th, Milan)
+# Cisco's presence at CodeMotion RomE 2017 (March 23rd, 24th)
 
-[CodeMotion Milan conference](http://milan2016.codemotionworld.com/ ) is pretty large, with 8 tracks in parallel, plus codelabs.
+[CodeMotion Milan conference](http://rome2017.codemotionworld.com/ ) is pretty large, with 8 tracks in parallel, plus codelabs.
 
-You have more than one opportunities to learn from the Cisco crew:
-- [Nov 25th, 10:00-10:20](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=5150): Jason Goecke's keynote, it's all about Developers, discover Cisco DevNet.
+You have more than one opportunities to hear more abou:t Cisco APIs:
+- [March 24th, 09:40-10:20](http://rome2017.codemotionworld.com/talk-detail/?detail=5727): José de Castro's keynote, From bots to machine learning: How the 4th Industrial Revolution will forever change how we live, work, play and learn..
 - [Nov 25th, 11:30-12:10](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4794): From IoT to Human interactions : voice and messages to the rescue (Drone Demo)
 - [Nov 25th, 14:10-14:50](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4791): Creating a microservice style application architecture and running DevOps easily with Mantl.io 
 - [Nov 26th, 11:30-12:10](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4795): How to embed Video Calls and Messaging without being a WebRTC, XMPP or SIP expert
 
-> To discover what's going on in real-time
->
->    call **+39-051-042-1150** and meet the [Tropo Voice Machine](https://github.com/ObjectIsAdvantag/CodeMotionMilan2016)
-
-Wanna go hands-on ? take a CiscoDevNet code lab 
-- [Nov 25th, from 11:30 till 18:00](http://milan2016.codemotionworld.com/schedule/add-super-power-to-your-app-chatbots-chatops-video-sms-and-voice-by-using-cisco-spark-and-tropo/), 
+And if you are working on an app and wish to boost its communication capabilities, don’t miss the 20' learning labs:
+- [March 24th, from 11:00 till 18:00](http://rome2017.codemotionworld.com/schedule/learn-to-build-bots-and-add-video-sms-voice-to-your-apps-by-using-cisco-spark-and-tropo/), 
 learn to build bots and add Video, SMS and Voice to your apps by using Cisco Spark and Tropo.
 
-*If you are working on an app and you wish to boost the communication capabilities, don’t miss these labs!
-Access to Labs is free, allowed to Codemotion Conference Ticket holders.*
+Access to Labs is free, provided by [Cisco DevNet](http://developer.cisco.com) allowed to Codemotion Conference Ticket holders.*
+
+<!--> To discover what's going on in real-time
+>
+>    call **+39-051-042-1150** and meet the [Tropo Voice Machine](https://github.com/ObjectIsAdvantag/CodeMotionMilan2016)-->
 
 
 # <a id="code-labs"></a>Thanks for joining the CodeLabs 
@@ -58,10 +57,10 @@ Reach to your Cisco technology mentors to get info about the Spark SDKs early ac
 as well as the code samples you can run today on your own machines.
 
 
-## How to take a code lab
+## How to take the labs offline
 
-Either join the Cisco CodeLab room in Milan on Nov 25th, 
-or register online at Cisco DevNet, and go through the [Cloud Collaboration Learning Track](https://learninglabs.cisco.com/tracks/collab-cloud),
+Register online at [DevNet - Cisco's Developer Program](http://developer.cisco.com), 
+and go through the [Cloud Collaboration Learning Track](https://learninglabs.cisco.com/tracks/collab-cloud),
 
 
 
