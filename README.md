@@ -3,10 +3,11 @@
 [CodeMotion Milan conference](http://rome2017.codemotionworld.com/ ) is pretty large, with 8 tracks in parallel, plus codelabs.
 
 You have more than one opportunities to hear more abou:t Cisco APIs:
-- [March 24th, 09:40-10:20](http://rome2017.codemotionworld.com/talk-detail/?detail=5727): José de Castro's keynote, From bots to machine learning: How the 4th Industrial Revolution will forever change how we live, work, play and learn..
-- [Nov 25th, 11:30-12:10](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4794): From IoT to Human interactions : voice and messages to the rescue (Drone Demo)
-- [Nov 25th, 14:10-14:50](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4791): Creating a microservice style application architecture and running DevOps easily with Mantl.io 
-- [Nov 26th, 11:30-12:10](http://milan2016.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=4795): How to embed Video Calls and Messaging without being a WebRTC, XMPP or SIP expert
+- [March 24th, 09:40-10:20](http://rome2017.codemotionworld.com/talk-detail/?detail=5727): José de Castro's keynote, From bots to machine learning: How the 4th Industrial Revolution will forever change how we live, work, play and learn.
+- [March 24th, 11:30-12:10](http://rome2017.codemotionworld.com/talk-detail/?detail=5717): Building advanced Chats Bots and Voice Interactive Assistants, by Stève Sfartz
+- [March 24th, 14:10-14:50](http://rome2017.codemotionworld.com/talk-detail/?detail=5737): How to embed Video Calls and Messaging without being a WebRTC, XMPP or SIP expert, by Josh Reola
+- [March 25th, 11:30-12:10](http://rome2017.codemotionworld.com/talk-detail/?detail=5634): Microservices and containers networking: Contiv, an industry leading open source solution from Cisco, by Luca Relandini
+
 
 And if you are working on an app and wish to boost its communication capabilities, don’t miss the 20' learning labs:
 - [March 24th, from 11:00 till 18:00](http://rome2017.codemotionworld.com/schedule/learn-to-build-bots-and-add-video-sms-voice-to-your-apps-by-using-cisco-spark-and-tropo/), 
