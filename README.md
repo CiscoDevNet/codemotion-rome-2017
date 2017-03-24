@@ -1,6 +1,6 @@
-# Cisco's presence at CodeMotion RomE 2017 (March 23rd, 24th)
+# Cisco's presence at CodeMotion Rome 2017 (March 24,25)
 
-[CodeMotion Milan conference](http://rome2017.codemotionworld.com/ ) is pretty large, with 8 tracks in parallel, plus codelabs.
+[CodeMotion Rome](http://rome2017.codemotionworld.com/ ) is pretty large, with 8 tracks in parallel, plus codelabs.
 
 You have more than one opportunities to hear more abou:t Cisco APIs:
 - [March 24th, 09:40-10:20](http://rome2017.codemotionworld.com/talk-detail/?detail=5727): José de Castro's keynote, From bots to machine learning: How the 4th Industrial Revolution will forever change how we live, work, play and learn.
@@ -17,16 +17,18 @@ Access to Labs is free, provided by [Cisco DevNet](http://developer.cisco.com) a
 
 <!--> To discover what's going on in real-time
 >
->    call **+39-051-042-1150** and meet the [Tropo Voice Machine](https://github.com/ObjectIsAdvantag/CodeMotionMilan2016)-->
+>    call **+39-069-480-4685** and meet the [Tropo Voice Machine](https://github.com/ObjectIsAdvantag/codemotion-rome-2017-api)-->
+
 
 
 # <a id="code-labs"></a>Thanks for joining the CodeLabs 
 
 __Pick a lab in the list to learn to build ChatBots, or add SMS, Voice, Video interactions for your existing apps__
 
+
 ## From ZERO to Enterprise ChatBots with Cisco Spark APIs
 
-In these labs serie, you’ll go through the various steps to build Chat Bots for Cisco Spark: create a Bot account, register it into Cisco Spark, run your own bot locally, deploy it live...
+In this labs serie, you’ll go through the various steps to build Chat Bots for Cisco Spark: create a Bot account, register it into Cisco Spark, run your own bot locally, deploy it live...
 
 1. [**Introduction to Cisco Spark Apps** (15min)](labs/SPARK-1-Introduction-to-Cisco-Spark-Apps.pdf): in this lab, we will take a few steps back to present Cisco Spark's extensibility "Big Picture",
 As we introduce Cisco Spark API, you will use the interactive documentation to experience Cisco Spark programmability. We’ll then go through a few use-cases, and drill into the fundamentals of Cisco Spark Apps.
@@ -41,9 +43,10 @@ In this lab, we’ll go through an existing NodeJS example that displays the nam
 
 5. [**Deploy a Cisco Spark Integration on Heroku** (15 min)](labs/SPARK-5-Deploy-a-Cisco-Spark-Integration.pdf): as introduced in previous labs, Cisco Spark Integrations and Bots concretize Cisco Spark’s extensibility. Cisco Spark Integrations let your applications request permission to invoke the Cisco Spark API on behalf of other users. In this lab, we’ll go through an existing NodeJS example that displays the name of Cisco Spark users. We will deploy it on Heroku, and register it as a Cisco Spark Integration.
 
+
 ## Add SMS and Voice to your apps using Tropo APIs
 
-In these labs serie, you'll learn to give a voice to your code and send SMS in batch by taking several steps: create an inbound Voice channel for your application, attach a Tropo phone number to your application, create outbound sessions dynamically to mix Voice an SMS..
+In this labs serie, you'll learn to give a voice to your code and send SMS in batch by taking several steps: create an inbound Voice channel for your application, attach a Tropo phone number to your application, create outbound sessions dynamically to mix Voice an SMS..
 
 6. [**Create a Voice Machine** (15 min)](labs/TROPO-1-Create-a-Voice-Machine.pdf): Tropo is a cloud API that allows you to automate communications over the phone and SIP VoIP networks. Both voice and SMS are supported, and no telephony knowledge is needed. In this lab, you will learn the basics of how to use Tropo. You'll create a simple Tropo application, get a Tropo number in a country of your choice, and build a simple Voice Machine controlled by your code.
       
